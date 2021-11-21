@@ -1,0 +1,46 @@
+/* add your CSS here */
+img{
+  width: 300px;
+  margin-block-start: 0.7em;
+  margin-block-end: 0.7em;
+}
+h1{
+  font-weight: bold;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+#container{
+  display: block;
+  box-shadow: 3px 3px 15px;
+  padding: 0.7em;
+  border: 1px solid;
+}
+li{
+  font-style: italic;
+  list-style: none;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+span{
+  font-weight: bold;
+  font-style: normal;
+}
+#interesting-fact{
+  font-style: italic;
+  margin-left: 10px;
+  margin-right: 8px;
+}
+#card{
+  border: 1px solid;
+}
+#summary{
+  margin-left: 10px;
+  margin-right: 8px;
+}
+ul{
+  padding-inline-start: 0.7em;
+}
+.animal-info{
+  width: auto
+}
+  
